@@ -1,10 +1,11 @@
-Memory Usage 1.0
+Memory Usage 1.1
 
-This program is the first implementation of usage of system memory.
+This program uses memory by containing a variable definition.
 
 The program just needs to be invoked.
 
-Although the program uses system memory it does not yet perform any actions
-with it because the variable definition to make it use system memory used
-up all the code space that was left beside of the main()- function.
+The program does not perform any actions because the code space did not
+leave space for implementing some.
 
+However the additional code space could be used to place the main()- function
+in a new line to make the code readable more clearly.

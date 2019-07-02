@@ -1,1 +1,2 @@
-int a;main(){}
+int a;
+main(){}
