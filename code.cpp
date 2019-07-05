@@ -1,2 +1,3 @@
 int a;
-main(){}
+main()
+{}
