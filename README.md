@@ -1,18 +1,16 @@
 # Memory-usage
 
-Memory Usage 1.2
+Memory Usage 1.3
 
-This program uses memory by containing an int- variable.
+This program just has to be invoked.
 
-The program just has to be invoked.
+Memory is allocated by a definition of an integer- variable.
 
-The program does not perform any actions because there was no code space
-left to fill the function main().
+The program does not perform any action. So the variable is not used yet.
 
-Improvement:
-
-The function block of main() was placed in a seperate line to make the
-code readable more clearly.
+The code was restructured to make it more clearly readable by setting the
+closing curly bracket into the next line.
+So the definition of main() now has its usual form.
 
 
-Code Space : 16 bytes
+Code Space : 17 bytes
