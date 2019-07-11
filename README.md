@@ -1,16 +1,15 @@
 # Memory-usage
 
-Memory Usage 1.3
+Memory Usage 2.0
 
-This program just has to be invoked.
+The program just needs to be invoked.
 
-Memory is allocated by a definition of an integer- variable.
+An integer variable is defined and as an action of the program it is assigned
+with the value 0.
 
-The program does not perform any action. So the variable is not used yet.
-
-The code was restructured to make it more clearly readable by setting the
-closing curly bracket into the next line.
-So the definition of main() now has its usual form.
+This was implemented because variables should be initialized when used, 
+so at least the initialization with 0 should be part of the instructions in 
+main().
 
 
-Code Space : 17 bytes
+Code Space : 18 bytes
