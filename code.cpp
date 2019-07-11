@@ -1,4 +1,1 @@
-int a;
-main()
-{
-}
+int a;main(){a=0;}
