@@ -1,15 +1,19 @@
 # Memory-usage
 
-Memory Usage 2.0
+Version 2.1
 
-The program just needs to be invoked.
+For operation see
 
-An integer variable is defined and as an action of the program it is assigned
-with the value 0.
+  readme.txt
+  
+for details.
 
-This was implemented because variables should be initialized when used, 
-so at least the initialization with 0 should be part of the instructions in 
-main().
+---
+Change:
+
+Replaced the initialization by 0 with an assignment of an actual number to variable a.
+No assignment by 0 before due to limited code space.
 
 
-Code Space : 18 bytes
+---
+Code Space : 19 bytes
