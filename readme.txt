@@ -1,10 +1,13 @@
-Memory Usage 2.0
+Memory Usage 2.1
 
-The program just needs to be invoked.
+This program uses memory by defining an integer variable and assigning it
+with a value.
 
-An integer variable is defined and as an action of the program it is assigned
-with the value 0.
+While version 2.0 just initialized the variable by 0, in version 2.1 an
+actual value is assigned.
 
-This was implemented because variables should be initialized when used, 
-so at least the initialization with 0 should be part of the instructions in 
-main().
+Thus this also can be regarded as an initialization, the initialization by 0
+fortunately did not have to be made due to the very limited code space.
+
+This program just has to be invoked.
+
