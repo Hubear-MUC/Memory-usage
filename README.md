@@ -1,6 +1,6 @@
 # Memory-usage
 
-Version 2.1
+Version 2.2
 
 For operation see
 
@@ -9,11 +9,21 @@ For operation see
 for details.
 
 ---
-Change:
+Changes:
+
+Version 2.2:
+
+- The code block of main() was placed in a new line to make the code readable
+  more clearly
+
+- The assigned value to variable a was increased to 20.
+
+
+Version 2.1:
 
 Replaced the initialization by 0 with an assignment of an actual number to variable a.
 No assignment by 0 before due to limited code space.
 
 
 ---
-Code Space : 19 bytes
+Code Space : 20 bytes
