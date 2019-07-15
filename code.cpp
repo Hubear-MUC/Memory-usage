@@ -1,1 +1,2 @@
-int a;main(){a=19;}
+int a;
+main(){a=20;}
