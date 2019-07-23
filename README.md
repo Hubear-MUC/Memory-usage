@@ -1,12 +1,17 @@
 # Memory-usage
 
-Version 2.2
+Version 2.3
 
 For operation see
 
   readme.txt
   
 for details.
+
+
+---
+Code space: 21 bytes
+
 
 ---
 Changes:
@@ -32,5 +37,4 @@ Replaced the initialization by 0 with an assignment of an actual number to varia
 No assignment by 0 before due to limited code space.
 
 
----
-Code Space : 20 bytes
+
