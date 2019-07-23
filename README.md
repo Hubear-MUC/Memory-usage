@@ -11,6 +11,13 @@ for details.
 ---
 Changes:
 
+Version 2.3:
+
+Placed the closing curly bracket in a new line to make the code readable
+more clearly and to make it possible to set a breakpoint after assigning
+the used memory with content.
+
+
 Version 2.2:
 
 - The code block of main() was placed in a new line to make the code readable
