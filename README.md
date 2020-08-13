@@ -1,6 +1,6 @@
 # Memory-usage
 
-Version 2.3
+Version 3.0
 
 For operation see
 
@@ -10,11 +10,17 @@ for details.
 
 
 ---
-Code space: 21 bytes
+Code space: 28 bytes
 
 
 ---
 Changes:
+
+Version 3.0:
+
+Creation of an array, not just one variable. Thus first "real" memory usage
+in a bigger amount.
+
 
 Version 2.3:
 
