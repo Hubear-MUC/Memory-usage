@@ -1,3 +1,5 @@
-int a;
-main(){a=21;
+int a[9];
+main()
+{
+a[1]=9;
 }
