@@ -1,6 +1,6 @@
 # Memory-usage
 
-Version 3.0
+Version 3.1
 
 For operation see
 
@@ -10,11 +10,17 @@ for details.
 
 
 ---
-Code space: 28 bytes
+Code space: 29 bytes
 
 
 ---
 Changes:
+
+Version 3.1
+
+Separation of the definition from the working code to make the code readable
+more clearly.
+
 
 Version 3.0:
 
