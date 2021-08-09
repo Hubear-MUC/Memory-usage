@@ -10,11 +10,16 @@ for details.
 
 
 ---
-Code space: 29 bytes
+Code extent: max. 74 bytes
 
 
 ---
 Changes:
+
+Version 4.0
+
+Equipped with full user interaction so that the use of a debugger is not necessary anymore.
+
 
 Version 3.1
 
