@@ -1,6 +1,7 @@
-int a[9];
-
+#include "incl.h"
+int a;
 main()
 {
-a[1]=9;
+  a = in();
+  out (a);
 }
