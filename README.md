@@ -1,8 +1,8 @@
 # Memory-usage
 
-Version 4.0
+Version 5.0
 
-For operation see
+See
 
   readme.txt
   
@@ -10,11 +10,16 @@ for details.
 
 
 ---
-Code extent: max. 74 bytes
+Code extent: max. 91 bytes
 
 
 ---
-Changes:
+Version history:
+
+Version 5.0
+
+Implementation of in- and output of data (a number) with standard- functions, no usage of the din() or dout() functions.
+
 
 Version 4.0
 
