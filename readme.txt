@@ -1,17 +1,14 @@
-Memory Usage 4.0
+Memory Usage 5.0
 ----------------
 
-The code of "Memory Usage" was completely rewritten in version 4.0
+With this program the implementation of data in- and output via directly using the standard- functions is tested.
 
-This program is the first one using the functions  in()  and  out()  by including the  incl.h - file to supply complete user interaction.
+Just invoke the program, it asks you to enter a number by an indivudually designed prompt (a<- ) and then outputs the numbers entered.
 
-The program just needs to be invoked.
+For both actions the standard- functions  printf()  and  scanf()  are used directly.
 
-The program asks for entering a number and returns it after the entry is done.
+This is intended in the future because this is the normal way in using the C- programming language and the messages on the screen can be designed more flexible.
 
-For this the entered number is stored in a variable which makes this program using system memory.
-
-The program terminates after showing the entered number on the screen (in the terminal).
 
 
 
@@ -19,6 +16,11 @@ The program terminates after showing the entered number on the screen (in the te
 
 Changes:
 --------
+
+Version 5.0
+
+Implementation of in- and output of data (a number) with standard- functions, no usage of the din() or dout() functions.
+
 
 Version 4.0
 

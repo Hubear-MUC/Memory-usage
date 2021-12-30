@@ -1,7 +1,3 @@
-#include "incl.h"
+#include<stdio.h>
 int a;
-main()
-{
-  a = in();
-  out (a);
-}
+main(){printf ("a<-");scanf("%d[^\n]", &a);printf ("a=%d\n", a);}
